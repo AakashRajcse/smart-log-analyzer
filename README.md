@@ -50,11 +50,11 @@
 
 # 💻 Commands            Command	Description
 
-     #### result	             Show original logs + full analysis
-     #### search	             Filter logs by type (info/error/warning)
-     #### json	               Export analysis report to JSON file
-     #### graph	             Show log distribution graph
-     #### exit	               Exit the program
+         result	             Show original logs + full analysis
+         search	             Filter logs by type (info/error/warning)
+         json	               Export analysis report to JSON file
+         graph	             Show log distribution graph
+         exit	               Exit the program
 
 
 # 📊 Output
