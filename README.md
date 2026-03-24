@@ -1,7 +1,7 @@
-#### 🚀 Smart Log Analyzer (Mini AI Tool)
+# 🚀 Smart Log Analyzer (Mini AI Tool)
 
-### 🚀 Smart Log Analyzer (Mini AI Tool)
-# Smart Log Analyzer is a Python-based tool that reads server logs from a file, analyzes them, and provides useful insights. It helps in understanding system behavior by categorizing logs, generating summaries, and visualizing data.
+# 🚀 Smart Log Analyzer (Mini AI Tool)
+#### Smart Log Analyzer is a Python-based tool that reads server logs from a file, analyzes them, and provides useful insights. It helps in understanding system behavior by categorizing logs, generating summaries, and visualizing data.
 
 ### 🎯 Objective
 # To build a simple log analysis tool that:
